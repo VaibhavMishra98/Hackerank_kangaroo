@@ -12,6 +12,6 @@ Sample Input
     0 3 4 2
     x1v1x2v2
 
-Sample Output 0
+Sample Output
 
     YES
