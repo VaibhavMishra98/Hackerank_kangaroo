@@ -15,3 +15,6 @@ Sample Input
 Sample Output
 
     YES
+
+Link for the question:
+https://www.hackerrank.com/challenges/kangaroo/problem
