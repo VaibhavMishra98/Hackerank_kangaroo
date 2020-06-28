@@ -1,4 +1,4 @@
-#Hackerrank Problem
+# Hackerrank Problem
 #!/bin/python3
 
 import math
